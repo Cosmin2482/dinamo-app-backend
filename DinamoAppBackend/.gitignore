@@ -1,0 +1,29 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS-generated files
+*.DS_Store
+Thumbs.db
+
+# VS-specific folders
+.vs/
+
+# Other
+*.log
+*.tmp
+*.cache
+*.sqlite
+*.pdb
