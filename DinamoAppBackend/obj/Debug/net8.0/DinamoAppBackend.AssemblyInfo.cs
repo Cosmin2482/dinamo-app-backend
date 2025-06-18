@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DinamoAppBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7191bcad9e0a752d10af5246d4ea6afd3a7120df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6283b419a97059a76e56166d53cfa28c6ff7b264")]
 [assembly: System.Reflection.AssemblyProductAttribute("DinamoAppBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DinamoAppBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

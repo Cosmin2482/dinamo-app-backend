@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\SiteDinamo\\dinamo-app-backend\\DinamoAppBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{765CF3C1-C5FF-464A-93AF-8A396F846F03}|DinamoAppBackend\\DinamoAppBackend.csproj|c:\\users\\user\\desktop\\sitedinamo\\dinamo-app-backend\\dinamoappbackend\\dinamoappbackend\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765CF3C1-C5FF-464A-93AF-8A396F846F03}|DinamoAppBackend\\DinamoAppBackend.csproj|solutionrelative:dinamoappbackend\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765CF3C1-C5FF-464A-93AF-8A396F846F03}|DinamoAppBackend\\DinamoAppBackend.csproj|c:\\users\\user\\desktop\\sitedinamo\\dinamo-app-backend\\dinamoappbackend\\dinamoappbackend\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765CF3C1-C5FF-464A-93AF-8A396F846F03}|DinamoAppBackend\\DinamoAppBackend.csproj|solutionrelative:dinamoappbackend\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765CF3C1-C5FF-464A-93AF-8A396F846F03}|DinamoAppBackend\\DinamoAppBackend.csproj|c:\\users\\user\\desktop\\sitedinamo\\dinamo-app-backend\\dinamoappbackend\\dinamoappbackend\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765CF3C1-C5FF-464A-93AF-8A396F846F03}|DinamoAppBackend\\DinamoAppBackend.csproj|solutionrelative:dinamoappbackend\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765CF3C1-C5FF-464A-93AF-8A396F846F03}|DinamoAppBackend\\DinamoAppBackend.csproj|c:\\users\\user\\desktop\\sitedinamo\\dinamo-app-backend\\dinamoappbackend\\dinamoappbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765CF3C1-C5FF-464A-93AF-8A396F846F03}|DinamoAppBackend\\DinamoAppBackend.csproj|solutionrelative:dinamoappbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765CF3C1-C5FF-464A-93AF-8A396F846F03}|DinamoAppBackend\\DinamoAppBackend.csproj|c:\\users\\user\\desktop\\sitedinamo\\dinamo-app-backend\\dinamoappbackend\\dinamoappbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{765CF3C1-C5FF-464A-93AF-8A396F846F03}|DinamoAppBackend\\DinamoAppBackend.csproj|solutionrelative:dinamoappbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765CF3C1-C5FF-464A-93AF-8A396F846F03}|DinamoAppBackend\\DinamoAppBackend.csproj|c:\\users\\user\\desktop\\sitedinamo\\dinamo-app-backend\\dinamoappbackend\\dinamoappbackend\\services\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765CF3C1-C5FF-464A-93AF-8A396F846F03}|DinamoAppBackend\\DinamoAppBackend.csproj|solutionrelative:dinamoappbackend\\services\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765CF3C1-C5FF-464A-93AF-8A396F846F03}|DinamoAppBackend\\DinamoAppBackend.csproj|c:\\users\\user\\desktop\\sitedinamo\\dinamo-app-backend\\dinamoappbackend\\dinamoappbackend\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765CF3C1-C5FF-464A-93AF-8A396F846F03}|DinamoAppBackend\\DinamoAppBackend.csproj|solutionrelative:dinamoappbackend\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765CF3C1-C5FF-464A-93AF-8A396F846F03}|DinamoAppBackend\\DinamoAppBackend.csproj|c:\\users\\user\\desktop\\sitedinamo\\dinamo-app-backend\\dinamoappbackend\\dinamoappbackend\\mongodb\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765CF3C1-C5FF-464A-93AF-8A396F846F03}|DinamoAppBackend\\DinamoAppBackend.csproj|solutionrelative:dinamoappbackend\\mongodb\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SiteDinamo\\dinamo-app-backend\\DinamoAppBackend\\DinamoAppBackend\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "DinamoAppBackend\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SiteDinamo\\dinamo-app-backend\\DinamoAppBackend\\DinamoAppBackend\\Services\\JwtService.cs",
+              "RelativeToolTip": "DinamoAppBackend\\Services\\JwtService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvysAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T16:10:20.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SiteDinamo\\dinamo-app-backend\\DinamoAppBackend\\DinamoAppBackend\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "DinamoAppBackend\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SiteDinamo\\dinamo-app-backend\\DinamoAppBackend\\DinamoAppBackend\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "DinamoAppBackend\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T16:09:44.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SiteDinamo\\dinamo-app-backend\\DinamoAppBackend\\DinamoAppBackend\\Controllers\\PlayerController.cs",
+              "RelativeDocumentMoniker": "DinamoAppBackend\\Controllers\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SiteDinamo\\dinamo-app-backend\\DinamoAppBackend\\DinamoAppBackend\\Controllers\\PlayerController.cs",
+              "RelativeToolTip": "DinamoAppBackend\\Controllers\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:36:11.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SiteDinamo\\dinamo-app-backend\\DinamoAppBackend\\DinamoAppBackend\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "DinamoAppBackend\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SiteDinamo\\dinamo-app-backend\\DinamoAppBackend\\DinamoAppBackend\\Models\\Player.cs",
+              "RelativeToolTip": "DinamoAppBackend\\Models\\Player.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:33:27.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SiteDinamo\\dinamo-app-backend\\DinamoAppBackend\\DinamoAppBackend\\Services\\PlayerService.cs",
+              "RelativeDocumentMoniker": "DinamoAppBackend\\Services\\PlayerService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SiteDinamo\\dinamo-app-backend\\DinamoAppBackend\\DinamoAppBackend\\Services\\PlayerService.cs",
+              "RelativeToolTip": "DinamoAppBackend\\Services\\PlayerService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA4wCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:31:48.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MongoDbSettings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SiteDinamo\\dinamo-app-backend\\DinamoAppBackend\\DinamoAppBackend\\MongoDB\\MongoDbSettings.cs",
+              "RelativeDocumentMoniker": "DinamoAppBackend\\MongoDB\\MongoDbSettings.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SiteDinamo\\dinamo-app-backend\\DinamoAppBackend\\DinamoAppBackend\\MongoDB\\MongoDbSettings.cs",
+              "RelativeToolTip": "DinamoAppBackend\\MongoDB\\MongoDbSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:24:33.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SiteDinamo\\dinamo-app-backend\\DinamoAppBackend\\DinamoAppBackend\\Program.cs",
+              "RelativeDocumentMoniker": "DinamoAppBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SiteDinamo\\dinamo-app-backend\\DinamoAppBackend\\DinamoAppBackend\\Program.cs",
+              "RelativeToolTip": "DinamoAppBackend\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:42:27.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SiteDinamo\\dinamo-app-backend\\DinamoAppBackend\\DinamoAppBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "DinamoAppBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SiteDinamo\\dinamo-app-backend\\DinamoAppBackend\\DinamoAppBackend\\appsettings.json",
+              "RelativeToolTip": "DinamoAppBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-14T18:20:08.34Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
