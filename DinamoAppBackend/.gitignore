@@ -1,29 +1,64 @@
-# Build results
-[Dd]ebug/
-[Rr]elease/
-x64/
-x86/
-build/
-bld/
-[Bb]in/
-[Oo]bj/
+## === BACKEND (.NET / Visual Studio) ===
 
 # User-specific files
-*.user
+*.rsuser
 *.suo
+*.user
 *.userosscache
 *.sln.docstates
 
-# OS-generated files
-*.DS_Store
-Thumbs.db
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+build/
+x64/
+x86/
+_release/
+_release_debug/
 
-# VS-specific folders
+# VS Code
+.vscode/
+
+# Visual Studio
 .vs/
+TestResults/
 
-# Other
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# DotCover
+.idea/
+*.dotCover
+
+# Rider
+.idea/
+
+# ASP.NET
+appsettings.*.json
+secrets.json
+
+# Logs
 *.log
-*.tmp
-*.cache
+
+# Publish outputs
+publish/
+
+# Others
+*.db
 *.sqlite
-*.pdb
+
+## === FRONTEND (Angular - reminder only for future use) ===
+
+# When frontend is added:
+# node_modules/
+# dist/
+# .angular/
+# .env
+# .env.*.local
